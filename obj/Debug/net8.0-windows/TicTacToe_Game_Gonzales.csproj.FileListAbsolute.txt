@@ -1,0 +1,16 @@
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\bin\Debug\net8.0-windows\TicTacToe_Game_Gonzales.exe
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\bin\Debug\net8.0-windows\TicTacToe_Game_Gonzales.deps.json
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\bin\Debug\net8.0-windows\TicTacToe_Game_Gonzales.runtimeconfig.json
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\bin\Debug\net8.0-windows\TicTacToe_Game_Gonzales.dll
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\bin\Debug\net8.0-windows\TicTacToe_Game_Gonzales.pdb
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\obj\Debug\net8.0-windows\TicTacToe_Game_Gonzales.Form1.resources
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\obj\Debug\net8.0-windows\TicTacToe_Game_Gonzales.csproj.GenerateResource.cache
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\obj\Debug\net8.0-windows\TicTacToe_Game_Gonzales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\obj\Debug\net8.0-windows\TicTacToe_Game_Gonzales.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\obj\Debug\net8.0-windows\TicTacToe_Game_Gonzales.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\obj\Debug\net8.0-windows\TicTacToe_Game_Gonzales.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\obj\Debug\net8.0-windows\TicTacToe_Game_Gonzales.dll
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\obj\Debug\net8.0-windows\refint\TicTacToe_Game_Gonzales.dll
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\obj\Debug\net8.0-windows\TicTacToe_Game_Gonzales.pdb
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\obj\Debug\net8.0-windows\TicTacToe_Game_Gonzales.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\Documents\FALL2025\SODV2202 - OOP\TicTacToe_Game_Gonzales\TicTacToe_Game_Gonzales\obj\Debug\net8.0-windows\ref\TicTacToe_Game_Gonzales.dll
